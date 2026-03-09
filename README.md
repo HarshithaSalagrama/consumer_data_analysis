@@ -1,8 +1,8 @@
-# Customer Data Analysis
+# Consumer Data Analysis
 
 ## Project Overview
 
-This project analyzes customer shopping behavior to understand purchasing trends, customer segments, and revenue patterns.
+This project analyzes consumer shopping behavior to understand purchasing trends, customer segments, and revenue patterns.
 
 The analysis pipeline includes:
 
